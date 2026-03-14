@@ -1,12 +1,21 @@
 Universidad de Antioquia
+
 Facultad de Ingenieria
+
 Informatica II - Semestre 2026-1
+
 Desafio I - Informe Preliminar
+
 Implementacion de Tetris con manipulacion de bits en C++
+
 Autor: Juan David Murillo Mejia
+
 Codigo: Informática II Teoría G1 G2 G3 G4 G5( 2026-1) Teoría
+
 Fecha: 13 de marzo de 2026
+
 Profesores: Augusto Salazar
+
 
 
 1. Analisis del problema
