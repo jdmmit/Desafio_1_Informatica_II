@@ -8,7 +8,7 @@ Desafio I - Informe Preliminar
 
 Implementacion de Tetris con manipulacion de bits en C++
 
-Autor: Juan David Murillo Mejia
+Autores: Juan David Murillo Mejia & Camilo Medina Isaza 
 
 Codigo: Informática II Teoría G1 G2 G3 G4 G5( 2026-1) Teoría
 
