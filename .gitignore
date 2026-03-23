@@ -1,0 +1,43 @@
+# Carpetas de build generadas por Qt Creator
+build/
+debug/
+release/
+
+# Archivos de objeto compilados
+*.o
+*.obj
+
+# Ejecutables
+*.exe
+*.out
+*.app
+
+# Archivos de Qt Creator
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.moc
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+*.qmlc
+*.jsc
+
+# Makefiles generados
+Makefile
+Makefile.Debug
+Makefile.Release
+
+# Archivos de CMake (si se migra)
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log

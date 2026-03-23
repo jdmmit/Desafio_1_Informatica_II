@@ -14,10 +14,6 @@
 
 ---
 
-## Video de presentacion
-
-[Ver video en YouTube](https://youtu.be/SDVodrXll5s)
-
 ## 1. Analisis del problema
 
 El objetivo del desafio es hacer una version de Tetris que corra por consola. Lo que lo hace distinto a un Tetris normal es que internamente el tablero y las piezas se manejan con bits, no con matrices de enteros. Cada celda del tablero no se guarda como un int de 4 bytes sino como un bit dentro de un byte, lo que hace que el uso de memoria sea mucho mas eficiente.

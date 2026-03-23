@@ -1,9 +1,8 @@
 #include <iostream>
 #include "juego.h"
-
 using namespace std;
 
-int main(){
+int main() {
     int ancho, alto;
 
     cout << "Ancho del tablero (minimo 8, multiplo de 8): ";
